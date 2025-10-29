@@ -1,0 +1,5 @@
+SUCCESS
+FAIL #meg nem jo
+SUCCESS #mostmar igen
+SUCCESS #mindketto nem megy
+FAIL

@@ -1,0 +1,5 @@
+GT4500,1,1,2,0 #felig mukodo urhajo
+TORPEDO,SINGLE #megprobalunk az elsovel loni (szar)
+TORPEDO,SINGLE #cooldownon van az elso, most jo lesz
+TORPEDO,ALL #meg jo
+TORPEDO,ALL #kifogyott

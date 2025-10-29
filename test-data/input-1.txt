@@ -1,0 +1,8 @@
+GT4500,3,0,2,0 #urhajo letrehozasa
+TORPEDO,SINGLE #tuzel az elso tarbol (elvben success)
+TORPEDO,ALL #mindkettovel (success)
+TORPEDO,ALL #megint az osszesses
+TORPEDO,ALL #megint az osszessel (mar kifogyott)
+
+
+

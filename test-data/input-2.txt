@@ -1,0 +1,7 @@
+GT4500,2,1,2,1 #Mindig szar urhajo letrehozasa
+TORPEDO,SINGLE #egyikkel probalunk loni
+TORPEDO,SINGLE #masikkal is probalunk loni
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

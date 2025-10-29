@@ -1,0 +1,7 @@
+SUCCESS #Legalabb letrejott
+FAIL #Loni mar nem tud
+FAIL #loni meg mindig nem tuds
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL

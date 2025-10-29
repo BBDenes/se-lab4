@@ -1,0 +1,5 @@
+SUCCESS #urhajo letrehoz
+SUCCESS #urhajo single lo
+SUCCESS #urhajo all lo
+SUCCESS #urhajo single lo
+FAIL #1es izeben nem maradt tolteny
